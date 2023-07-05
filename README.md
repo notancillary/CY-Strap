@@ -7,6 +7,8 @@ Note that this project invovles working with a heatgun and hot-plastic. Take all
 <br>
 The base design has gone through 6 iterations so far using the valve index and vive pro; The current uploaded version has not yet been tested and is intended for the Bigscreen Beyond only.<br>
 <br>
+This project is a WIP. Design updates will occur and versions for other HMDs will be updated. Currently only 3dprint files are uploaded. Designfiles will be uploaded soon.<br>
+<br>
 Tools and materials: <br>
 1. Sidecutters/Scissors<br>
 2. 50g PETG (PLA alternate, but not advised.)<br>
@@ -38,4 +40,5 @@ Assembly Process:<br>
 11. Mount the topstrap adapter (Tbd if can reuse original screws).<br>
 12. Thermoform the topstrap adapter to the beyond. <br>
 13. Trim the back-surface of your facial interface if neccesary to clear the topstrap adapter (Tbd). <br>
-14. Install your topstrap. 
+14. Install your topstrap. <br>
+<br>
