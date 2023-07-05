@@ -42,3 +42,8 @@ Assembly Process:<br>
 13. Trim the back-surface of your facial interface if neccesary to clear the topstrap adapter (Tbd). <br>
 14. Install your topstrap. <br>
 <br>
+
+CC BY-NC-SA 3.0
+
+Creative Commons License
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
