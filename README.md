@@ -1,6 +1,5 @@
 # CY-Strap<br>
 DIY, custom fitted, lightweight, low-profile, HMD strap for multiple hmd.<br>
-The design is open-source under Creative Commons Attribution Non-Commercial Liscence. <br>
 <br>
 This headstrap is designed to have a light-fit and minimized pressurepoints on the user's head for maximum comfort in any orientation. It is not intended for miultiple users as it will be formed to the users head and will not be adjustable. The theory of it's construction relies on the facial interface and padding to provide all pressure neccesary to retain the HMD in position. The hmd angle is intended to be stiff to allow the user to adjust forehead vs cheek pressure. <br>
 Note that this project invovles working with a heatgun and hot-plastic. Take all neccesary precausions, the guide included is for reference only and i accept no responsibility if you burn yourself in the process of thermoforming.<br>
