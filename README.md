@@ -18,14 +18,15 @@ Tools and materials: <br>
 7. TORX driver T6?<br>
 <br>
 <br>
-![image](https://github.com/notancillary/CY-Strap/assets/50598087/86f14e19-52b7-4b4a-be33-9ee8cbd624a3)<br>
+
 <br>
 <br>
 (WIP - will update with photos etc once beyond arrives)
 Assembly Process:<br>
 1. Print parts in PETG. - No support required. <br>
 <br>
-![image](https://github.com/notancillary/CY-Strap/assets/50598087/1ef532b1-25da-4d84-b31d-60d64158182b)<br>
+![image](https://github.com/notancillary/CY-Strap/assets/50598087/074e9aaa-a227-4a63-84e9-1d39625f3e38)
+<br>
 <br>
 2. Put on a beanie.<br>
 3. Snap the 2 side arms to your HMD.<br>
