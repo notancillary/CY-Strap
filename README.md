@@ -36,6 +36,7 @@ Assembly Process:<br>
 7. Put back on the hmd and strap (with your beanie still on). Rub the strap around the back of your head to closely form to your headshape.<br>
 8. Once cool, un-clip the sides from the back. Trim off any excess strap length. Apply hotglue on the mating areas and re-assemble.<br>
 9. Hot-glue the neoprene/pu foam onto all surfaces interfacing with your head. (If you ordered 1/4", i suggest doubleing up on the back.)<br>
+(the below is optional if you want forward topstrap) <br>
 10. Unscrew the 2x TORX screws in the upper center of the Bigscreen Beyond HMD.<br>
 11. Mount the topstrap adapter (Tbd if can reuse original screws).<br>
 12. Thermoform the topstrap adapter to the beyond. <br>
