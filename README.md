@@ -15,7 +15,7 @@ Tools and materials: <br>
 4. 2" Wide Velcro/nylon strap. Such as: https://www.amazon.com/gp/product/B00I0TTVVC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1. (Old belt / vive strap alterante.)<br>
 5. Hotgluegun<br>
 6. Heatgun<br>
-7. TORX driver T6?<br>
+7. TORX driver T6? (optional for topstrap)<br>
 <br>
 <br>
 
