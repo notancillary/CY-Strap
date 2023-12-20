@@ -4,13 +4,13 @@ DIY, custom fitted, lightweight, low-profile, HMD strap for multiple hmd.<br>
 This headstrap is designed to have a light-fit and minimized pressurepoints on the user's head for maximum comfort in any orientation. It is not intended for miultiple users as it will be formed to the users head and will not be adjustable. The theory of it's construction relies on the facial interface and padding to provide all pressure neccesary to retain the HMD in position. The hmd angle is intended to be stiff to allow the user to adjust forehead vs cheek pressure. <br>
 Note that this project invovles working with a heatgun and hot-plastic. Take all neccesary precausions, the guide included is for reference only and i accept no responsibility if you burn yourself in the process of thermoforming.<br>
 <br>
-The base design has gone through 6 iterations so far using the valve index and vive pro; The current uploaded version has not yet been tested and is intended for the Bigscreen Beyond only.<br>
+The base design has gone through 11 iterations so far. The current uploaded version is for Bigscreen Beyond only.<br>
 <br>
-This project is a WIP. Design updates will occur and versions for other HMDs will be updated. Currently only 3dprint files are uploaded. Designfiles will be uploaded soon.<br>
+This project is a WIP. Design updates will occur and versions for other HMDs will be updated. Designfiles will be uploaded soon.<br>
 <br>
 Tools and materials: <br>
 1. Sidecutters/Scissors<br>
-2. 50g PETG (PLA alternate, but not advised.)<br>
+2. 40g PETG (PLA alternate, but not advised.)<br>
 3. 1/4"-1/2" Thick PU/Neoprene foam sheet. Such as: https://www.amazon.com/dp/B07VZBVC95/ref=emc_b_5_t. (Old T-shirt alternate.)<br>
 4. 2" Wide Velcro/nylon strap. Such as: https://www.amazon.com/gp/product/B00I0TTVVC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1. (Old belt / vive strap alterante.)<br>
 5. Hotgluegun<br>
